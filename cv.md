@@ -18,10 +18,10 @@ Kazakhstan, Nur-Sultan
 
 - Email: [sergey.shapkarin@gmail.com](mailto:sergey.shapkarin@gmail.com),  [sergey.shapkarin@mail.ru](mailto:sergey.shapkarin@mail.ru)
 
-###Summary:
+### Summary:
 I want to become a python-developer. So far, I have finished "Interactive Course Python basics" at [geekbrains.ru](https://geekbrains.ru/certificates/705198.en). And now, I want to learn JS in order to build comfortable and practical user interfaces.
 
-###Skills:
+### Skills:
 
 - Python core
 
@@ -77,7 +77,7 @@ def create_folder(folder_name):
         logging('INFO', f'Каталог {folder_name} успешно создан.')
 ```
 
-###Experience:
+### Experience:
 
 2017.12 - 2019.10 -> JSC "Sportmaster Kazakhstan" - Deputy Head of Information Technology
 
@@ -91,7 +91,7 @@ def create_folder(folder_name):
 
 2006.11 - 2008.08 -> JSC "New Age Technologies" - software implementation and support specialist
 
-###Education:
+### Education:
 
 2020.01.30 - 2020.03.10 - "Interactive Course HTML/CSS" - geekbrains.ru
 
@@ -103,6 +103,6 @@ def create_folder(folder_name):
 
 2004.09.01 - 2007.03.15 - software technician Faculty of Computer Engineering and Automated Systems - Polytechnic College of Astana
 
-###English:
+### English:
 
 My English level is approximately A2. I can read texts in English and understand them in most cases. But I have a very rare practice of spoken in English. At the moment I am engaged in independent study of the English language.
