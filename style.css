@@ -1,0 +1,83 @@
+body {
+  font: normal 16px/1.5 "Times New Roman", sans-serif;
+  background-color: #f8f8f8;
+}
+
+/*Header description*/
+/*--------------------------------------------------------*/
+header h1 {
+  text-align: center;
+}
+
+/*About me*/
+/*--------------------------------------------------------*/
+.about table {
+  width: 100%;
+}
+
+.about .info {
+  width: 48%;
+  text-align: left;
+}
+
+.about .pass {
+  width: 2%;
+}
+
+.about .foto {
+  width: 48%;
+  text-align: right;
+}
+
+.about .info article {
+  padding-left: 5%;
+}
+
+.about .info article p {
+  padding-left: 3%;
+}
+
+.about .foto img {
+  padding-right: 10%;
+}
+
+/*Skills*/
+/*--------------------------------------------------------*/
+.skills article {
+  padding-left: 2.6%;
+}
+
+.skills article p {
+  padding-left: 1.5%;
+}
+
+.skills pre {
+  width: 50%;
+  margin-left: -2%;
+  border: 1px dotted black;
+  border-radius: 80px;
+  background-color: #dcdcdc;
+}
+
+.skills pre code {
+  font: normal 14px "Arial", monospace;
+
+}
+
+/*Experience*/
+/*--------------------------------------------------------*/
+.experience article {
+  padding-left: 2.6%;
+}
+
+.experience article p {
+  padding-left: 1.5%;
+}
+
+/*Footer*/
+/*--------------------------------------------------------*/
+footer p {
+  text-align: center;
+  font-style: italic;
+  font-weight: 700;
+}
